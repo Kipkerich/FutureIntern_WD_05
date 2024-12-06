@@ -1,6 +1,7 @@
 # Simple To-Do List Application
 This is a simple To-Do List application built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and delete them. The tasks will persist as long as the page is open (not saved permanently).
 
+## Link to the to do list; https://kipkerich.github.io/FutureIntern_WD_05/
 ## Features
 Add new tasks to the to-do list.
 Mark tasks as completed or pending.
