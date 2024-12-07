@@ -14,7 +14,7 @@ HTML: Used for the structure of the to-do list.
 CSS: Used for styling the to-do list and making it visually appealing.
 JavaScript: Used to handle the functionality of adding, marking, and removing tasks.
 Getting Started
-### 1. Clone or Download the Project
+###  Clone or Download the Project
 To get started, you can either clone the repository or download the ZIP file.
 
 Clone the repository:
@@ -24,7 +24,7 @@ Copy code
 git clone https://github.com/your-username/todo-list.git
 Or, download the ZIP file and extract it to your desired location.
 
-### 2. Open the Project
+### Open the Project
 Open the index.html file in your browser to start using the to-do list application.
 3. Usage
 Add a Task: Type your task in the input field and press the Add Task button.
